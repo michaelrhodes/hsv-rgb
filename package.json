@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Convert HSV values to RGB",
   "main": "index.js",
+  "types": "index.d.ts",
   "devDependencies": {
     "tape": "~4.5.1"
   },
